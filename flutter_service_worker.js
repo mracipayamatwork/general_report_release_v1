@@ -3,11 +3,12 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "19751dcd45d019d2f2ad45a0536b27cc",
-"assets/AssetManifest.bin.json": "64dc80945e0e5e767303d69000826070",
+const RESOURCES = {"assets/AssetManifest.bin": "da464be676d28123341655707a28886f",
+"assets/AssetManifest.bin.json": "ad902191eeaeb01213085d804c6ff017",
 "assets/assets/geojson/turkey.json": "720e4998849cfb0e298b80b7bcee601c",
+"assets/assets/images/logo.png": "3d59eeb6cb58d0ba1a5c47adfa19cd12",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "bbf6206745b4e9879c9b3675acd16983",
+"assets/fonts/MaterialIcons-Regular.otf": "6ebe0aca591ff98b253c1a729d4ecd02",
 "assets/NOTICES": "4367ae297aa9198b7835398d1f378588",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "33b7d9392238c04c131b6ce224e13711",
 "assets/packages/flutter_map/lib/assets/flutter_map_logo.png": "208d63cc917af9713fc9572bd5c09362",
@@ -27,14 +28,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "19751dcd45d019d2f2ad45a0536b27cc
 "canvaskit/skwasm_heavy.wasm": "b0be7910760d205ea4e011458df6ee01",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "24bc71911b75b5f8135c949e27a2984e",
-"flutter_bootstrap.js": "bac1e5611bfe213173cff9cb7e18ae58",
+"flutter_bootstrap.js": "47625c6a099215219c13293f58f7f0f1",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "bed71183fa51ec8ea3eab621b72c9f2b",
 "/": "bed71183fa51ec8ea3eab621b72c9f2b",
-"main.dart.js": "cc4bfacb92d3ca069327ec42a3bc988d",
+"main.dart.js": "6b36a117c97b1391251c1b295ebe47bd",
 "manifest.json": "b484a1a4ba12de3d6dcf27d803a851cd",
 "version.json": "9df94a8720c5ad8b7cf3c55dacbcb659",
 "web.config": "3068aa6cf26d9ca3f60ba4a62e1d1e6b"};
