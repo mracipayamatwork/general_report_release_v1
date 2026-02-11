@@ -1,6 +1,6 @@
 {
-    "name": "general_report_v1",
-    "short_name": "general_report_v1",
+    "name": "E-Rapor",
+    "short_name": "E-Rapor",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
